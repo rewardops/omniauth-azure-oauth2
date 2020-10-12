@@ -1,3 +1,8 @@
+This is copy of this pr https://github.com/marknadig/omniauth-azure-oauth2/pull/30 . We may want to opensource this and start maintaining it. Right now I just want this code somewhere where someone won't delete it.
+
+
+
+
 # OmniAuth Windows Azure Active Directory Strategy
 [![Build Status](https://travis-ci.org/KonaTeam/omniauth-azure-oauth2.svg?branch=master)](https://travis-ci.org/KonaTeam/omniauth-azure-oauth2)
 
